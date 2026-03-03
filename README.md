@@ -1,4 +1,4 @@
-# Hi there, I'm [Nama Asli Kamu]! 👋
+# Hi there, I'm Kalingga Rafif! 👋
 
 ## 🚀 Data Science & Machine Learning Enthusiast
 
