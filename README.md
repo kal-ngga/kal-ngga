@@ -2,7 +2,7 @@
 
 ## 🚀 Data Science & Machine Learning Enthusiast
 
-I am a final-year student with a strong passion for turning raw data into actionable insights. I enjoy building predictive models, analyzing data, and deploying interactive machine learning applications.
+I am a information Systems student with a strong passion for turning raw data into actionable insights. I enjoy building predictive models, analyzing data, and deploying interactive machine learning applications.
 
 ### 💡 About Me
 - 🔭 **Currently working on:** Building predictive machine learning models (e.g., sports analytics and performance prediction) using Python and Streamlit.
