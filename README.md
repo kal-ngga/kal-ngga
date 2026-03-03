@@ -16,11 +16,6 @@ I am a information Systems student with a strong passion for turning raw data in
 * **Frameworks/Tools:** Streamlit, Jupyter Notebook, Git, Laravel, React
 * **Concepts:** Exploratory Data Analysis (EDA), Predictive Modeling, Web Scraping, Object-Oriented System Analysis and Design (OOSAD)
 
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kal-ngga&show_icons=true&theme=radium" alt="kal-ngga's GitHub stats" />
-</p>
-
 ### 📫 Let's Connect!
 - **LinkedIn:** www.linkedin.com/in/kalinggarafif/
 - **Email:** kalingga.rdk246@gmail.com
