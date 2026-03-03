@@ -22,5 +22,5 @@ I am a final-year student with a strong passion for turning raw data into action
 </p>
 
 ### 📫 Let's Connect!
-- **LinkedIn:** [Masukkan URL LinkedIn Kamu]
-- **Email:** [Masukkan Email Profesional Kamu]
+- **LinkedIn:** www.linkedin.com/in/kalinggarafif/
+- **Email:** kalingga.rdk246@gmail.com
