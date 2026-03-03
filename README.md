@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there, I'm [Nama Asli Kamu]! 👋
 
-<!--
-**kal-ngga/kal-ngga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Data Science & Machine Learning Enthusiast
 
-Here are some ideas to get you started:
+I am a final-year student with a strong passion for turning raw data into actionable insights. I enjoy building predictive models, analyzing data, and deploying interactive machine learning applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💡 About Me
+- 🔭 **Currently working on:** Building predictive machine learning models (e.g., sports analytics and performance prediction) using Python and Streamlit.
+- 🌱 **Currently learning:** Deepening my knowledge in Advanced Machine Learning, Data Visualization, and Model Deployment.
+- 💼 **Looking for:** Internship or Entry-Level roles in **Data Science, Machine Learning, or Data Analytics**.
+- ⚡ **Fun fact:** I love optimizing physical performance as much as optimizing code!
+
+### 🛠️ Tech Stack & Tools
+* **Languages:** Python, SQL
+* **Data & ML Libraries:** Pandas, NumPy, Scikit-Learn, Matplotlib
+* **Frameworks/Tools:** Streamlit, Jupyter Notebook, Git, Laravel, React
+* **Concepts:** Exploratory Data Analysis (EDA), Predictive Modeling, Web Scraping, Object-Oriented System Analysis and Design (OOSAD)
+
+### 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kal-ngga&show_icons=true&theme=radium" alt="kal-ngga's GitHub stats" />
+</p>
+
+### 📫 Let's Connect!
+- **LinkedIn:** [Masukkan URL LinkedIn Kamu]
+- **Email:** [Masukkan Email Profesional Kamu]
